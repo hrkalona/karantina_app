@@ -7,5 +7,22 @@
   "extendedRestrictionStartDate" : "2020-12-18 06:00:01",
   "extendedRestrictionEndDate" : "2021-02-28 06:00:01",
   "extendedRestrictionFromHour" : 18,
-  "extendedRestrictionToHour": 5
+  "extendedRestrictionToHour": 5,
+  
+  "pharmacyDoctorEnabled": True,
+  "suppliesEnabled": True,
+  "gasStationEnabled": True,
+  "vehicleWorkshopEnabled": True,
+  "postOfficeEnabled": True,
+  "shoppingEnabled": True,
+  "hairSalonEnabled": True,
+  "bankEnabled": True,
+  "assistanceEnabled": True,
+  "transportEnabled": True,
+  "schoolEnabled": True,
+  "funeralEnabled": True,
+  "divorcedParentsEnabled": True,
+  "exerciseEnabled": True,
+  "petEnabled": True,
+  "straysEnabled": True
 }
