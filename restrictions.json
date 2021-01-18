@@ -10,7 +10,7 @@
   "extendedRestrictionToHour": 5,
   
   "categoriesUpdateDate": "2021-01-20  06:00:01",
-  "pharmacyDoctorEnabled": 0,
+  "pharmacyDoctorEnabled": 1,
   "suppliesEnabled": 1,
   "gasStationEnabled": 1,
   "vehicleWorkshopEnabled": 1,
