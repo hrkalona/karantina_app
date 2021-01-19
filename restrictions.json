@@ -28,7 +28,7 @@
   "straysEnabled": True,
   
   
-  "pharmacyAffectedByRestriction": False,
+  "pharmacyDoctorAffectedByRestriction": False,
   "suppliesAffectedByRestriction": True,
   "gasStationAffectedByRestriction": True,
   "vehicleWorkshopAffectedByRestriction": True,
