@@ -26,6 +26,8 @@
   "exerciseEnabled": True,
   "petEnabled": True,
   "straysEnabled": True,
+  "dinnerEnabled": False,
+  "churchEnabled": True,
   
   
   "pharmacyDoctorAffectedByRestriction": False,
@@ -43,5 +45,7 @@
   "divorcedParentsAffectedByRestriction": True,
   "exerciseAffectedByRestriction": True,
   "petAffectedByRestriction": False,
-  "straysAffectedByRestriction": True
+  "straysAffectedByRestriction": True,
+  "dinnerAffectedByRestriction": True,
+  "churchAffectedByRestriction": True
 }
