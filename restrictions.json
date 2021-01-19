@@ -1,8 +1,8 @@
 {
-  "restrictionStartDate" : "2021-01-03 06:00:01",
+  "restrictionStartDate" : "2021-01-04 06:00:01",
   "restrictionEndDate" : "2021-02-28 06:00:01",
-  "restrictionFromHour" : 21,
-  "restrictionToHour": 5,
+  "restrictionFromHour" : 11,
+  "restrictionToHour": 12,
   
   "extendedRestrictionStartDate" : "2020-12-18 06:00:01",
   "extendedRestrictionEndDate" : "2021-02-28 06:00:01",
