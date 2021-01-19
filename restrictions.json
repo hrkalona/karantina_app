@@ -25,5 +25,23 @@
   "divorcedParentsEnabled": True,
   "exerciseEnabled": True,
   "petEnabled": True,
-  "straysEnabled": True
+  "straysEnabled": True,
+  
+  
+  "pharmacyAffectedByRestriction": False,
+  "suppliesAffectedByRestriction": True,
+  "gasStationAffectedByRestriction": True,
+  "vehicleWorkshopAffectedByRestriction": True,
+  "postOfficeAffectedByRestriction": True,
+  "shoppingAffectedByRestriction": True,
+  "hairSalonAffectedByRestriction": True,
+  "bankAffectedByRestriction": True,
+  "assistanceAffectedByRestriction": False,
+  "transportAffectedByRestriction": True,
+  "schoolAffectedByRestriction": True,
+  "funeralAffectedByRestriction": True,
+  "divorcedParentsAffectedByRestriction": True,
+  "exerciseAffectedByRestriction": True,
+  "petAffectedByRestriction": False,
+  "straysAffectedByRestriction": True
 }
