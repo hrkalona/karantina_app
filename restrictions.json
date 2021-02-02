@@ -28,6 +28,7 @@
   "straysEnabled": True,
   "dinnerEnabled": False,
   "churchEnabled": True,
+  "protestEnabled": True,
   
   
   "pharmacyDoctorAffectedByRestriction": False,
@@ -47,5 +48,6 @@
   "petAffectedByRestriction": False,
   "straysAffectedByRestriction": True,
   "dinnerAffectedByRestriction": True,
-  "churchAffectedByRestriction": True
+  "churchAffectedByRestriction": True,
+  "protestAffectedByRestriction": True
 }
