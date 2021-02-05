@@ -49,5 +49,7 @@
   "straysAffectedByRestriction": True,
   "dinnerAffectedByRestriction": True,
   "churchAffectedByRestriction": True,
-  "protestAffectedByRestriction": True
+  "protestAffectedByRestriction": True,
+  
+  "extendedExceptionDays": "7,1"
 }
