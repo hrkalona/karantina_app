@@ -51,5 +51,6 @@
   "churchAffectedByRestriction": True,
   "protestAffectedByRestriction": True,
   
-  "extendedExceptionDays": "7,1"
+  "extendedExceptionDays": "7,1",
+  "offsetHour": -5
 }
