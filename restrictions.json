@@ -57,5 +57,5 @@
   "protestAffectedByRestriction": True,
   
   "extendedExceptionDays": "7,1",
-  "offsetHour": -5
+  "offsetHour": -6
 }
