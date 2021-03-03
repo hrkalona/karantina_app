@@ -4,7 +4,7 @@
   "restrictionFromHour" : 21,
   "restrictionToHour": 5,
   
-  "extendedRestrictionStartDate" : "2020-03-03 06:00:01",
+  "extendedRestrictionStartDate" : "2021-03-03 06:00:01",
   "extendedRestrictionEndDate" : "2021-04-30 06:00:01",
   "extendedRestrictionFromHour" : 18,
   "extendedRestrictionToHour": 5,
