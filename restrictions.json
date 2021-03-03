@@ -4,14 +4,14 @@
   "restrictionFromHour" : 21,
   "restrictionToHour": 5,
   
-  "extendedRestrictionStartDate" : "2020-12-18 06:00:01",
+  "extendedRestrictionStartDate" : "2020-03-04 06:00:01",
   "extendedRestrictionEndDate" : "2021-04-30 06:00:01",
-  "extendedRestrictionFromHour" : 18,
+  "extendedRestrictionFromHour" : 19,
   "extendedRestrictionToHour": 5,
   
-  "extendedExceptionDaysRestrictionStartDate": "2021-02-06 06:00:01",
+  "extendedExceptionDaysRestrictionStartDate": "2021-03-04 06:00:01",
   "extendedExceptionDaysRestrictionEndDate": "2021-04-30 06:00:01",
-  "extendedExceptionDaysRestrictionFromHour" : 18,
+  "extendedExceptionDaysRestrictionFromHour" : 19,
   "extendedExceptionDaysRestrictionToHour": 5,
   
   "categoriesUpdateDate": "2021-01-20  06:00:01",
