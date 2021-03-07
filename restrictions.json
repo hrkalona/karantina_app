@@ -66,5 +66,6 @@
   "urlTests": "https://covid-19-greece.herokuapp.com/total-tests",
   "urlIcu": "https://covid-19-greece.herokuapp.com/intensive-care",
   "urlVac": "https://data.gov.gr/api/v1/query/mdg_emvolio",
-  "token": "dffb98a0dccbad11304158652fc38f10140a50b5"
+  "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
+  "logokrisia": False
 }
