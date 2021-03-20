@@ -36,6 +36,7 @@
   "churchEnabled": True,
   "protestEnabled": True,
   "opapEnabled": True,
+  "fishingAndOtherActivitiesEnabled": True,
   
   
   "pharmacyDoctorAffectedByRestriction": False,
@@ -58,6 +59,7 @@
   "churchAffectedByRestriction": True,
   "protestAffectedByRestriction": True,
   "opapAffectedByRestriction": True,
+  "fishingAndOtherActivitiesAffectedByRestriction": True,
   
   "extendedExceptionDays": "7,1",
   "offsetHour": -6,
