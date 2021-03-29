@@ -71,5 +71,27 @@
   "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
   "logokrisia": False,
   
-   "categoriesUpdateDate": "2021-03-23 06:00:02"
+  "pharmacyDoctorCode": 1,
+  "suppliesCode": 2,
+  "gasStationCode": 2,
+  "vehicleWorkshopCode": 2,
+  "postOfficeCode": 2,
+  "shoppingCode": 2,
+  "hairSalonCode": 6,
+  "bankCode": 3,
+  "assistanceCode": 4,
+  "transportCode": 4,
+  "schoolCode": 4,
+  "funeralCode": 5,
+  "divorcedParentsCode": 5,
+  "exerciseCode": 6,
+  "petCode": 6,
+  "straysCode": 6,
+  "dinnerCode": 6,
+  "churchCode": 5,
+  "protestCode": 6,
+  "opapCode": 2,
+  "fishingAndOtherActivitiesCode": 6,  
+  
+  "categoriesUpdateDate": "2021-03-23 06:00:02"
 }
