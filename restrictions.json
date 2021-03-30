@@ -196,8 +196,8 @@
   "icuEn": "Intensive Care",
   "vaccinationsGr": "Εμβολιασμοί",
   "vaccinationsEn": "Vaccinations",
-  "vaccinationsGr + logokrisiaSufix": "Επιχείρηση 'Ελευθερία'",
-  "vaccinationsEn + logokrisiaSufix": "Project 'Eleftheria'",
+  "vaccinationsGrLogokrisia": "Επιχείρηση 'Ελευθερία'",
+  "vaccinationsEnLogokrisia": "Project 'Eleftheria'",
   "smsGr": "Μηνύματα SMS",
   "smsEn": "SMS Messages",
   
