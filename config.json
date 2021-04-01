@@ -202,6 +202,9 @@
   "smsEn": "SMS Messages",
   
   "messageFormat13033": "$code $name $address",
-  "messageFormat13034": "$amka $lastName"
+  "messageFormat13034": "$amka $lastName",
+  "messageFormat13032": "$name $address",
+  
+  "shoppingTimeWindowHours": 3
   
 }
