@@ -199,5 +199,9 @@
   "vaccinationsGrLogokrisia": "Επιχείρηση 'Ελευθερία'",
   "vaccinationsEnLogokrisia": "Project 'Eleftheria'",
   "smsGr": "Μηνύματα SMS",
-  "smsEn": "SMS Messages"
+  "smsEn": "SMS Messages",
+  
+  "messageFormat13033": "$code $name $address",
+  "messageFormat13034": "$amka $lastName"
+  
 }
