@@ -204,6 +204,6 @@
   "messageFormat13034": "$amka $lastName",
   "messageFormat13032": "$name $address",
   
-  "shoppingTimeWindowHours": -1
+  "shoppingTimeWindowHours": 3
   
 }
