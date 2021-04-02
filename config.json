@@ -202,7 +202,7 @@
   
   "messageFormat13033": "$code $name $address",
   "messageFormat13034": "$amka $lastName",
-  "messageFormat13032": "$name $address",
+  "messageFormat13032": "Μετακίνηση $name εμπορικό κέντρο",
   
   "shoppingTimeWindowHours": 3
   
