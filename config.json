@@ -44,7 +44,7 @@
   "gasStationAffectedByRestriction": True,
   "vehicleWorkshopAffectedByRestriction": True,
   "postOfficeAffectedByRestriction": True,
-  "shoppingAffectedByRestriction": True,
+  "shoppingAffectedByRestriction": False,
   "hairSalonAffectedByRestriction": True,
   "bankAffectedByRestriction": True,
   "assistanceAffectedByRestriction": False,
