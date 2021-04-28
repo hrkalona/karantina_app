@@ -32,11 +32,12 @@
   "exerciseEnabled": True,
   "petEnabled": True,
   "straysEnabled": True,
-  "dinnerEnabled": False,
+  "dinnerEnabled": True,
   "churchEnabled": True,
   "protestEnabled": True,
   "opapEnabled": True,
   "fishingAndOtherActivitiesEnabled": True,
+  "coffeeRestaurantsPubsEnabled": True,
   
   
   "pharmacyDoctorAffectedByRestriction": False,
@@ -60,6 +61,7 @@
   "protestAffectedByRestriction": True,
   "opapAffectedByRestriction": True,
   "fishingAndOtherActivitiesAffectedByRestriction": True,
+  "coffeeRestaurantsPubsAffectedByRestriction": True,
   
   "extendedExceptionDays": "7,1",
   "offsetHour": -6,
@@ -91,6 +93,7 @@
   "protestCode": 6,
   "opapCode": 2,
   "fishingAndOtherActivitiesCode": 6,
+  "coffeeRestaurantsPubsCode": 6,
   
   "pharmacyDoctorDescriptionGr": "Μετάβαση σε φαρμακείο ή επίσκεψη στον γιατρό ή αιμοδοσία ή εμβολιασμό COVID-19, εφόσον αυτό συνιστάται μετά από σχετική επικοινωνία.",
   "pharmacyDoctorDescriptionEn": "Movement to the pharmacy or visiting a doctor or to donate blood or for COVID-19 vaccination, in the case that this is recommended after a previous communication.",
@@ -134,6 +137,8 @@
   "opapDescriptionEn": "Movement to an in-service OPAP retail store.",
   "fishingAndOtherActivitiesDescriptionGr": "Μετάβαση για ερασιτεχνικό ψάρεμα.",
   "fishingAndOtherActivitiesDescriptionEn": "Movement for amateur fishing.",
+  "coffeeRestaurantsPubsDescriptionGr": "Μετάβαση σε εν λειτουργία εστιατόριο/καφετέρια/μπαρ.",
+  "coffeeRestaurantsPubsDescriptionEn": "Movement to an in-service restaurant/cafe/bar.",
 
   "searchWithAmkaDescriptionGr": "Ενημερωθείτε για το εάν είστε δικαιούχος εμβολιασμού με βάση την πληθυσμιακή προτεραιοποίηση του εθνικού σχεδίου εμβολιασμών.",
   "searchWithAmkaDescriptionEn": "Find out if you are eligible for vaccination based on the population prioritization of the national vaccination plan.",
@@ -180,6 +185,8 @@
   "opapTitleEn": "OPAP",
   "fishingAndOtherActivitiesTitleGr": "Ψάρεμα",
   "fishingAndOtherActivitiesTitleEn": "Fishing",
+  "coffeeRestaurantsPubsTitleGr": "Καταστήματα Εστίασης",
+  "coffeeRestaurantsPubsTitleEn": "Eating/Drinking Establishments",
 
 
   "searchWithAmkaTitleGr": "Αναζήτηση με AMKA",
