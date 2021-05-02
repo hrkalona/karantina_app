@@ -37,7 +37,7 @@
   "protestEnabled": True,
   "opapEnabled": True,
   "fishingAndOtherActivitiesEnabled": True,
-  "coffeeRestaurantsPubsEnabled": False,
+  "coffeeRestaurantsPubsEnabled": True,
   
   
   "pharmacyDoctorAffectedByRestriction": False,
