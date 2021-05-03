@@ -3,7 +3,7 @@
   
   "restrictionStartDate" : "2021-03-03 06:00:01",
   "restrictionEndDate" : "2021-06-01 06:00:01",
-  "restrictionFromHour" : 22,
+  "restrictionFromHour" : 23,
   "restrictionToHour": 5,
   
   "extendedRestrictionStartDate" : "2021-03-04 06:00:01",
