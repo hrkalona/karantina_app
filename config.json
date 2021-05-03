@@ -32,7 +32,7 @@
   "exerciseEnabled": True,
   "petEnabled": True,
   "straysEnabled": True,
-  "dinnerEnabled": True,
+  "dinnerEnabled": False,
   "churchEnabled": True,
   "protestEnabled": True,
   "opapEnabled": True,
