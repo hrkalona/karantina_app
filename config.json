@@ -24,6 +24,9 @@
   "extendedExceptionDaysRestrictionFromMinute": 0,
   "extendedExceptionDaysRestrictionToMinute": 0,
   
+  "SMS13033Enabled": True,
+  "SMS13032Enabled": True,
+  
   "pharmacyDoctorEnabled": True,
   "suppliesEnabled": True,
   "gasStationEnabled": True,
