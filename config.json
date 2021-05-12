@@ -2,7 +2,7 @@
   "version": 7,
   
   "restrictionStartDate" : "2021-03-03 06:00:01",
-  "restrictionEndDate" : "2021-06-01 06:00:01",
+  "restrictionEndDate" : "2021-05-14 06:00:01",
   "restrictionFromHour" : 23,
   "restrictionToHour": 5,
   "restrictionFromMinute": 0,
@@ -10,7 +10,7 @@
   
   
   "extendedRestrictionStartDate" : "2021-03-04 06:00:01",
-  "extendedRestrictionEndDate" : "2021-06-01 06:00:01",
+  "extendedRestrictionEndDate" : "2021-05-14 06:00:01",
   "extendedRestrictionFromHour" : 19,
   "extendedRestrictionToHour": 5,
   "extendedRestrictionFromMinute": 0,
@@ -18,7 +18,7 @@
   
   
   "extendedExceptionDaysRestrictionStartDate": "2021-03-04 06:00:01",
-  "extendedExceptionDaysRestrictionEndDate": "2021-06-01 06:00:01",
+  "extendedExceptionDaysRestrictionEndDate": "2021-05-14 06:00:01",
   "extendedExceptionDaysRestrictionFromHour" : 19,
   "extendedExceptionDaysRestrictionToHour": 5,
   "extendedExceptionDaysRestrictionFromMinute": 0,
