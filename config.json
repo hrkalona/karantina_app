@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 9,
   
   "restrictionStartDate" : "2021-03-03 06:00:01",
   "restrictionEndDate" : "2021-05-14 06:00:01",
@@ -104,7 +104,7 @@
   "urlIcu": "https://covid-19-greece.herokuapp.com/intensive-care",
   "urlVac": "https://data.gov.gr/api/v1/query/mdg_emvolio",
   "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
-  "logokrisia": True,
+  "logokrisia": False,
   
   "pharmacyDoctorCode": 1,
   "suppliesCode": 2,
