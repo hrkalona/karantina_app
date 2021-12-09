@@ -104,7 +104,7 @@
   "urlIcu": "https://covid-19-greece.herokuapp.com/intensive-care",
   "urlVac": "https://data.gov.gr/api/v1/query/mdg_emvolio",
   "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
-  "logokrisia": false,
+  "logokrisia": true,
   
   "pharmacyDoctorCode": 1,
   "suppliesCode": 2,
