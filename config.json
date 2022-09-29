@@ -99,9 +99,9 @@
   "extendedExceptionDays": "7,1",
   "offsetHour": -6,
   
-  "urlAll": "http://83.212.110.27:5000/all",
-  "urlTests": "http://83.212.110.27:5000/total-tests",
-  "urlIcu": "http://83.212.110.27:5000/intensive-care",
+  "urlAll": "https://83.212.110.27:5000/all",
+  "urlTests": "https://83.212.110.27:5000/total-tests",
+  "urlIcu": "https://83.212.110.27:5000/intensive-care",
   "urlVac": "https://data.gov.gr/api/v1/query/mdg_emvolio",
   "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
   "logokrisia": false,
