@@ -99,9 +99,9 @@
   "extendedExceptionDays": "7,1",
   "offsetHour": -6,
   
-  "urlAll": "https://covid-19-greece.herokuapp.com/all",
-  "urlTests": "https://covid-19-greece.herokuapp.com/total-tests",
-  "urlIcu": "https://covid-19-greece.herokuapp.com/intensive-care",
+  "urlAll": "https://karantinasms-api.ddns.net/all",
+  "urlTests": "https://karantinasms-api.ddns.net/total-tests",
+  "urlIcu": "https://karantinasms-api.ddns.net/intensive-care",
   "urlVac": "https://data.gov.gr/api/v1/query/mdg_emvolio",
   "token": "dffb98a0dccbad11304158652fc38f10140a50b5",
   "logokrisia": false,
